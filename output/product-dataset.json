@@ -139,7 +139,7 @@
         "name": "Speakers Bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -147,7 +147,7 @@
         "name": "Speakers Extra-bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -155,7 +155,7 @@
         "name": "Speakers Base",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -163,7 +163,7 @@
         "name": "Speakers Square",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -367,6 +367,1107 @@
         ]
     },
     {
+        "brand": "Meta",
+        "name": "Phone A40",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Phone Cool-A",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Phone X",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Phone X-T",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Phone Charger",
+        "categories": [
+            "tech",
+            "phones",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Laptop Charger",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Laptop Swift",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Laptop Inspire",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Laptop Speedy",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Laptop Async",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Laptop Sync",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Headphones Hear",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Headphones Noise",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Headphones Woosh",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Headphones B20",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Headphones Smooth",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Speakers Bass",
+        "categories": [
+            "tech",
+            "speakers"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Speakers Extra-bass",
+        "categories": [
+            "tech",
+            "speakers"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Speakers Base",
+        "categories": [
+            "tech",
+            "speakers"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Speakers Square",
+        "categories": [
+            "tech",
+            "speakers"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Dress S",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Dress M",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Dress L",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Dress XL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Dress XXL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Shirt S",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Shirt M",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Shirt L",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Shirt XL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Shirt XXL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Pants S",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Pants M",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Pants L",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Pants XL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Pants XXL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "T-shirt S",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "T-shirt M",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "T-shirt L",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "T-shirt XL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "T-shirt XXL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Shoes S",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Shoes M",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Shoes L",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Shoes XL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Meta",
+        "name": "Shoes XXL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Phone A40",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Phone Cool-A",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Phone X",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Phone X-T",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Phone Charger",
+        "categories": [
+            "tech",
+            "phones",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Laptop Charger",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Laptop Swift",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Laptop Inspire",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Laptop Speedy",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Laptop Async",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Laptop Sync",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Headphones Hear",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Headphones Noise",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Headphones Woosh",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Headphones B20",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Headphones Smooth",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Speakers Bass",
+        "categories": [
+            "tech",
+            "speakers"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Speakers Extra-bass",
+        "categories": [
+            "tech",
+            "speakers"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Speakers Base",
+        "categories": [
+            "tech",
+            "speakers"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Speakers Square",
+        "categories": [
+            "tech",
+            "speakers"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Dress S",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Dress M",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Dress L",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Dress XL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Dress XXL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Shirt S",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Shirt M",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Shirt L",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Shirt XL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Shirt XXL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Pants S",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Pants M",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Pants L",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Pants XL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Pants XXL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "T-shirt S",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "T-shirt M",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "T-shirt L",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "T-shirt XL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "T-shirt XXL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Shoes S",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Shoes M",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Shoes L",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Shoes XL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Google",
+        "name": "Shoes XXL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Phone A40",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Phone Cool-A",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Phone X",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Phone X-T",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Phone Charger",
+        "categories": [
+            "tech",
+            "phones",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Laptop Charger",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Laptop Swift",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Laptop Inspire",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Laptop Speedy",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Laptop Async",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Laptop Sync",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Headphones Hear",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Headphones Noise",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Headphones Woosh",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Headphones B20",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Headphones Smooth",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Speakers Bass",
+        "categories": [
+            "tech",
+            "speakers"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Speakers Extra-bass",
+        "categories": [
+            "tech",
+            "speakers"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Speakers Base",
+        "categories": [
+            "tech",
+            "speakers"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Speakers Square",
+        "categories": [
+            "tech",
+            "speakers"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Dress S",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Dress M",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Dress L",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Dress XL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Dress XXL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Shirt S",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Shirt M",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Shirt L",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Shirt XL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Shirt XXL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Pants S",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Pants M",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Pants L",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Pants XL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Pants XXL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "T-shirt S",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "T-shirt M",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "T-shirt L",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "T-shirt XL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "T-shirt XXL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Shoes S",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Shoes M",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Shoes L",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Shoes XL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Adobe",
+        "name": "Shoes XXL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
         "brand": "Sony",
         "name": "Phone A40",
         "categories": [
@@ -506,7 +1607,7 @@
         "name": "Speakers Bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -514,7 +1615,7 @@
         "name": "Speakers Extra-bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -522,7 +1623,7 @@
         "name": "Speakers Base",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -530,7 +1631,7 @@
         "name": "Speakers Square",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -873,7 +1974,7 @@
         "name": "Speakers Bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -881,7 +1982,7 @@
         "name": "Speakers Extra-bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -889,7 +1990,7 @@
         "name": "Speakers Base",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -897,7 +1998,7 @@
         "name": "Speakers Square",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -1240,7 +2341,7 @@
         "name": "Speakers Bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -1248,7 +2349,7 @@
         "name": "Speakers Extra-bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -1256,7 +2357,7 @@
         "name": "Speakers Base",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -1264,7 +2365,7 @@
         "name": "Speakers Square",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -1607,7 +2708,7 @@
         "name": "Speakers Bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -1615,7 +2716,7 @@
         "name": "Speakers Extra-bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -1623,7 +2724,7 @@
         "name": "Speakers Base",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -1631,7 +2732,7 @@
         "name": "Speakers Square",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -1974,7 +3075,7 @@
         "name": "Speakers Bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -1982,7 +3083,7 @@
         "name": "Speakers Extra-bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -1990,7 +3091,7 @@
         "name": "Speakers Base",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -1998,7 +3099,7 @@
         "name": "Speakers Square",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -2341,7 +3442,7 @@
         "name": "Speakers Bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -2349,7 +3450,7 @@
         "name": "Speakers Extra-bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -2357,7 +3458,7 @@
         "name": "Speakers Base",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -2365,7 +3466,7 @@
         "name": "Speakers Square",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -2708,7 +3809,7 @@
         "name": "Speakers Bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -2716,7 +3817,7 @@
         "name": "Speakers Extra-bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -2724,7 +3825,7 @@
         "name": "Speakers Base",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -2732,7 +3833,7 @@
         "name": "Speakers Square",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -3075,7 +4176,7 @@
         "name": "Speakers Bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -3083,7 +4184,7 @@
         "name": "Speakers Extra-bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -3091,7 +4192,7 @@
         "name": "Speakers Base",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -3099,7 +4200,7 @@
         "name": "Speakers Square",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -3442,7 +4543,7 @@
         "name": "Speakers Bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -3450,7 +4551,7 @@
         "name": "Speakers Extra-bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -3458,7 +4559,7 @@
         "name": "Speakers Base",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -3466,7 +4567,7 @@
         "name": "Speakers Square",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -3809,7 +4910,7 @@
         "name": "Speakers Bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -3817,7 +4918,7 @@
         "name": "Speakers Extra-bass",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -3825,7 +4926,7 @@
         "name": "Speakers Base",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {
@@ -3833,7 +4934,7 @@
         "name": "Speakers Square",
         "categories": [
             "tech",
-            "headphones"
+            "speakers"
         ]
     },
     {

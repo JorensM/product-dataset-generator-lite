@@ -1,6 +1,9 @@
 const config = {
     brands: [
         "Microsoft",
+        "Meta",
+        "Google",
+        "Adobe",
         "Sony",
         "Dell",
         "Samsung",
@@ -61,7 +64,7 @@ const config = {
         {
             name: "Speakers",
             variations: ["Bass", "Extra-bass", "Base", "Square",],
-            categories: ["tech", "headphones"]
+            categories: ["tech", "speakers"]
         },
         {
             name: "Dress",
