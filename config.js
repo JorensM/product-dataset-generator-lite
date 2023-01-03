@@ -25,7 +25,7 @@ const config = {
         },
         {
             name: "tech",
-            subcategoreis: [
+            subcategories: [
                 "laptops",
                 "phones",
                 "headphones",
@@ -62,6 +62,31 @@ const config = {
             name: "Speakers",
             variations: ["Bass", "Extra-bass", "Base", "Square",],
             categories: ["tech", "headphones"]
+        },
+        {
+            name: "Dress",
+            variations: ["S", "M", "L", "XL", "XXL"],
+            categories: ["apparel", "dresses"]
+        },
+        {
+            name: "Shirt",
+            variations: ["S", "M", "L", "XL", "XXL"],
+            categories: ["apparel", "shirt"]
+        },
+        {
+            name: "Pants",
+            variations: ["S", "M", "L", "XL", "XXL"],
+            categories: ["apparel", "pants"]
+        },
+        {
+            name: "T-shirt",
+            variations: ["S", "M", "L", "XL", "XXL"],
+            categories: ["apparel", "t-shirts"]
+        },
+        {
+            name: "Shoes",
+            variations: ["S", "M", "L", "XL", "XXL"],
+            categories: ["apparel", "shoes"]
         },
     ]
 }

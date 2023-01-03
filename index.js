@@ -28,5 +28,12 @@ config.brands.forEach(brand => {
     }))
 })
 
-console.log(products);
+fs.writeFile("./output/product-dataset.json", JSON.stringify(products, null, 4), err => {
+    if(err){
+        console.error("Error writing file: ");
+        console.error(err);
+    }else{
+        console.log("Dataset generated successfully!");
+    }
+})
 

@@ -1,0 +1,4039 @@
+[
+    {
+        "brand": "Microsoft",
+        "name": "Phone A40",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Phone Cool-A",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Phone X",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Phone X-T",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Phone Charger",
+        "categories": [
+            "tech",
+            "phones",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Laptop Charger",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Laptop Swift",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Laptop Inspire",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Laptop Speedy",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Laptop Async",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Laptop Sync",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Headphones Hear",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Headphones Noise",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Headphones Woosh",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Headphones B20",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Headphones Smooth",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Speakers Bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Speakers Extra-bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Speakers Base",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Speakers Square",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Dress S",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Dress M",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Dress L",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Dress XL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Dress XXL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Shirt S",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Shirt M",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Shirt L",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Shirt XL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Shirt XXL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Pants S",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Pants M",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Pants L",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Pants XL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Pants XXL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "T-shirt S",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "T-shirt M",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "T-shirt L",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "T-shirt XL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "T-shirt XXL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Shoes S",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Shoes M",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Shoes L",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Shoes XL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Microsoft",
+        "name": "Shoes XXL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Phone A40",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Phone Cool-A",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Phone X",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Phone X-T",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Phone Charger",
+        "categories": [
+            "tech",
+            "phones",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Laptop Charger",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Laptop Swift",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Laptop Inspire",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Laptop Speedy",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Laptop Async",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Laptop Sync",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Headphones Hear",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Headphones Noise",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Headphones Woosh",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Headphones B20",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Headphones Smooth",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Speakers Bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Speakers Extra-bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Speakers Base",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Speakers Square",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Dress S",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Dress M",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Dress L",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Dress XL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Dress XXL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Shirt S",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Shirt M",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Shirt L",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Shirt XL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Shirt XXL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Pants S",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Pants M",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Pants L",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Pants XL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Pants XXL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "T-shirt S",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "T-shirt M",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "T-shirt L",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "T-shirt XL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "T-shirt XXL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Shoes S",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Shoes M",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Shoes L",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Shoes XL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Sony",
+        "name": "Shoes XXL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Phone A40",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Phone Cool-A",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Phone X",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Phone X-T",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Phone Charger",
+        "categories": [
+            "tech",
+            "phones",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Laptop Charger",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Laptop Swift",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Laptop Inspire",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Laptop Speedy",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Laptop Async",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Laptop Sync",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Headphones Hear",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Headphones Noise",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Headphones Woosh",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Headphones B20",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Headphones Smooth",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Speakers Bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Speakers Extra-bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Speakers Base",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Speakers Square",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Dress S",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Dress M",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Dress L",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Dress XL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Dress XXL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Shirt S",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Shirt M",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Shirt L",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Shirt XL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Shirt XXL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Pants S",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Pants M",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Pants L",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Pants XL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Pants XXL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "T-shirt S",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "T-shirt M",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "T-shirt L",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "T-shirt XL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "T-shirt XXL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Shoes S",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Shoes M",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Shoes L",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Shoes XL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Dell",
+        "name": "Shoes XXL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Phone A40",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Phone Cool-A",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Phone X",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Phone X-T",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Phone Charger",
+        "categories": [
+            "tech",
+            "phones",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Laptop Charger",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Laptop Swift",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Laptop Inspire",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Laptop Speedy",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Laptop Async",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Laptop Sync",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Headphones Hear",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Headphones Noise",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Headphones Woosh",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Headphones B20",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Headphones Smooth",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Speakers Bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Speakers Extra-bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Speakers Base",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Speakers Square",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Dress S",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Dress M",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Dress L",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Dress XL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Dress XXL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Shirt S",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Shirt M",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Shirt L",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Shirt XL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Shirt XXL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Pants S",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Pants M",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Pants L",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Pants XL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Pants XXL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "T-shirt S",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "T-shirt M",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "T-shirt L",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "T-shirt XL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "T-shirt XXL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Shoes S",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Shoes M",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Shoes L",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Shoes XL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Samsung",
+        "name": "Shoes XXL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Phone A40",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Phone Cool-A",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Phone X",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Phone X-T",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Phone Charger",
+        "categories": [
+            "tech",
+            "phones",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Laptop Charger",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Laptop Swift",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Laptop Inspire",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Laptop Speedy",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Laptop Async",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Laptop Sync",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Headphones Hear",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Headphones Noise",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Headphones Woosh",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Headphones B20",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Headphones Smooth",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Speakers Bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Speakers Extra-bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Speakers Base",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Speakers Square",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Dress S",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Dress M",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Dress L",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Dress XL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Dress XXL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Shirt S",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Shirt M",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Shirt L",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Shirt XL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Shirt XXL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Pants S",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Pants M",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Pants L",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Pants XL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Pants XXL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "T-shirt S",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "T-shirt M",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "T-shirt L",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "T-shirt XL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "T-shirt XXL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Shoes S",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Shoes M",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Shoes L",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Shoes XL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Huawei",
+        "name": "Shoes XXL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Phone A40",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Phone Cool-A",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Phone X",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Phone X-T",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Phone Charger",
+        "categories": [
+            "tech",
+            "phones",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Laptop Charger",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Laptop Swift",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Laptop Inspire",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Laptop Speedy",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Laptop Async",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Laptop Sync",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Headphones Hear",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Headphones Noise",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Headphones Woosh",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Headphones B20",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Headphones Smooth",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Speakers Bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Speakers Extra-bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Speakers Base",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Speakers Square",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Dress S",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Dress M",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Dress L",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Dress XL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Dress XXL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Shirt S",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Shirt M",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Shirt L",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Shirt XL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Shirt XXL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Pants S",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Pants M",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Pants L",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Pants XL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Pants XXL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "T-shirt S",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "T-shirt M",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "T-shirt L",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "T-shirt XL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "T-shirt XXL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Shoes S",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Shoes M",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Shoes L",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Shoes XL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Apple",
+        "name": "Shoes XXL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Phone A40",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Phone Cool-A",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Phone X",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Phone X-T",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Phone Charger",
+        "categories": [
+            "tech",
+            "phones",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Laptop Charger",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Laptop Swift",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Laptop Inspire",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Laptop Speedy",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Laptop Async",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Laptop Sync",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Headphones Hear",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Headphones Noise",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Headphones Woosh",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Headphones B20",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Headphones Smooth",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Speakers Bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Speakers Extra-bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Speakers Base",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Speakers Square",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Dress S",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Dress M",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Dress L",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Dress XL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Dress XXL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Shirt S",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Shirt M",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Shirt L",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Shirt XL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Shirt XXL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Pants S",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Pants M",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Pants L",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Pants XL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Pants XXL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "T-shirt S",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "T-shirt M",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "T-shirt L",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "T-shirt XL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "T-shirt XXL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Shoes S",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Shoes M",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Shoes L",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Shoes XL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "H&M",
+        "name": "Shoes XXL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Phone A40",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Phone Cool-A",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Phone X",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Phone X-T",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Phone Charger",
+        "categories": [
+            "tech",
+            "phones",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Laptop Charger",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Laptop Swift",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Laptop Inspire",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Laptop Speedy",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Laptop Async",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Laptop Sync",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Headphones Hear",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Headphones Noise",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Headphones Woosh",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Headphones B20",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Headphones Smooth",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Speakers Bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Speakers Extra-bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Speakers Base",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Speakers Square",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Dress S",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Dress M",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Dress L",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Dress XL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Dress XXL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Shirt S",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Shirt M",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Shirt L",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Shirt XL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Shirt XXL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Pants S",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Pants M",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Pants L",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Pants XL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Pants XXL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "T-shirt S",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "T-shirt M",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "T-shirt L",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "T-shirt XL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "T-shirt XXL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Shoes S",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Shoes M",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Shoes L",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Shoes XL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Nike",
+        "name": "Shoes XXL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Phone A40",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Phone Cool-A",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Phone X",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Phone X-T",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Phone Charger",
+        "categories": [
+            "tech",
+            "phones",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Laptop Charger",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Laptop Swift",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Laptop Inspire",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Laptop Speedy",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Laptop Async",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Laptop Sync",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Headphones Hear",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Headphones Noise",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Headphones Woosh",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Headphones B20",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Headphones Smooth",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Speakers Bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Speakers Extra-bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Speakers Base",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Speakers Square",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Dress S",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Dress M",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Dress L",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Dress XL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Dress XXL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Shirt S",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Shirt M",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Shirt L",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Shirt XL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Shirt XXL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Pants S",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Pants M",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Pants L",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Pants XL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Pants XXL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "T-shirt S",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "T-shirt M",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "T-shirt L",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "T-shirt XL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "T-shirt XXL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Shoes S",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Shoes M",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Shoes L",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Shoes XL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Gucci",
+        "name": "Shoes XXL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Phone A40",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Phone Cool-A",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Phone X",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Phone X-T",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Phone Charger",
+        "categories": [
+            "tech",
+            "phones",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Laptop Charger",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Laptop Swift",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Laptop Inspire",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Laptop Speedy",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Laptop Async",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Laptop Sync",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Headphones Hear",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Headphones Noise",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Headphones Woosh",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Headphones B20",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Headphones Smooth",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Speakers Bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Speakers Extra-bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Speakers Base",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Speakers Square",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Dress S",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Dress M",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Dress L",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Dress XL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Dress XXL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Shirt S",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Shirt M",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Shirt L",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Shirt XL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Shirt XXL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Pants S",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Pants M",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Pants L",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Pants XL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Pants XXL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "T-shirt S",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "T-shirt M",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "T-shirt L",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "T-shirt XL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "T-shirt XXL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Shoes S",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Shoes M",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Shoes L",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Shoes XL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Prada",
+        "name": "Shoes XXL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Phone A40",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Phone Cool-A",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Phone X",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Phone X-T",
+        "categories": [
+            "tech",
+            "phones"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Phone Charger",
+        "categories": [
+            "tech",
+            "phones",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Laptop Charger",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Laptop Swift",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Laptop Inspire",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Laptop Speedy",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Laptop Async",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Laptop Sync",
+        "categories": [
+            "tech",
+            "laptops",
+            "tech-accessories"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Headphones Hear",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Headphones Noise",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Headphones Woosh",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Headphones B20",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Headphones Smooth",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Speakers Bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Speakers Extra-bass",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Speakers Base",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Speakers Square",
+        "categories": [
+            "tech",
+            "headphones"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Dress S",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Dress M",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Dress L",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Dress XL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Dress XXL",
+        "categories": [
+            "apparel",
+            "dresses"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Shirt S",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Shirt M",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Shirt L",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Shirt XL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Shirt XXL",
+        "categories": [
+            "apparel",
+            "shirt"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Pants S",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Pants M",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Pants L",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Pants XL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Pants XXL",
+        "categories": [
+            "apparel",
+            "pants"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "T-shirt S",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "T-shirt M",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "T-shirt L",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "T-shirt XL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "T-shirt XXL",
+        "categories": [
+            "apparel",
+            "t-shirts"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Shoes S",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Shoes M",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Shoes L",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Shoes XL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    },
+    {
+        "brand": "Chanel",
+        "name": "Shoes XXL",
+        "categories": [
+            "apparel",
+            "shoes"
+        ]
+    }
+]
