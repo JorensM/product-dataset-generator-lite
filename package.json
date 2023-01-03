@@ -1,0 +1,25 @@
+{
+  "name": "product-dataset-generator-lite",
+  "version": "1.0.0",
+  "description": "Generates mock dataset of products in JSON format",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorensM/product-dataset-generator-lite.git"
+  },
+  "keywords": [
+    "dataset",
+    "mock",
+    "json",
+    "generator"
+  ],
+  "author": "JorensM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JorensM/product-dataset-generator-lite/issues"
+  },
+  "homepage": "https://github.com/JorensM/product-dataset-generator-lite#readme"
+}
