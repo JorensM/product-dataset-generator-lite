@@ -10,7 +10,8 @@ function addProduct(brand, name, variation, categories){
     products.push({
         brand: brand,
         name: final_name,
-        categories: categories
+        categories: categories,
+        relevance: 1
     })
 }
 
